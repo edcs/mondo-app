@@ -14,6 +14,7 @@ class OauthMondoServiceProvider extends ServiceProvider
      */
     public function register()
     {
+        dd($this->app['config']['services']['mondo']);
         $this->app->singleton(Mondo::class, function ($app) {
             $provider = new Mondo([
                 'clientId'     => $app['config']['services']['mondo']['client_id'],
