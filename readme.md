@@ -4,6 +4,8 @@ This is an example PHP and Laravel application used to demonstrate interactions 
 March 2016 [POD Point](https://pod-point.com) Academy on the subject of 'Where Are All The Servers?' which was a
 discussion session about the cloud, APIs and DevOps.
 
+If you're a Mondo customer and you'd like to have a look at this app, you can check it out here: http://mondo-app.herokuapp.com/
+
 ## Installation
 
 You can either download the zip or clone the repository using the git command line application, like so:
