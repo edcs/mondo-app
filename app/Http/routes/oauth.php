@@ -1,5 +1,7 @@
 <?php
 
+// Added some comments for you
+
 /** @var $router Router */
 
 use Illuminate\Routing\Router;

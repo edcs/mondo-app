@@ -37,6 +37,6 @@ class Authenticate
             return $next($request);
         }
 
-        return redirect()->guest(route('oauth.authorise'));
+        return redirect()->guest(route('oauth.authorize'));
     }
 }
