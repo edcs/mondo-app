@@ -207,16 +207,16 @@
         },
         {
             "name": "edcs/oauth-mondo",
-            "version": "v1.0.1",
+            "version": "v1.0.2",
             "source": {
                 "type": "git",
                 "url": "https://github.com/edcs/oauth-mondo.git",
-                "reference": "bcdf8559494d29f98b7536600f52ba7e419d14ae"
+                "reference": "8d835cd4fe149250cf9140c3f2ee2438fef53c98"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/edcs/oauth-mondo/zipball/bcdf8559494d29f98b7536600f52ba7e419d14ae",
-                "reference": "bcdf8559494d29f98b7536600f52ba7e419d14ae",
+                "url": "https://api.github.com/repos/edcs/oauth-mondo/zipball/8d835cd4fe149250cf9140c3f2ee2438fef53c98",
+                "reference": "8d835cd4fe149250cf9140c3f2ee2438fef53c98",
                 "shasum": ""
             },
             "require": {
@@ -255,7 +255,7 @@
                 "oauth",
                 "oauth2"
             ],
-            "time": "2016-03-06 08:26:05"
+            "time": "2016-03-17 17:24:30"
         },
         {
             "name": "guzzlehttp/guzzle",
@@ -1164,16 +1164,16 @@
         },
         {
             "name": "paragonie/random_compat",
-            "version": "v1.2.2",
+            "version": "v1.3.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/paragonie/random_compat.git",
-                "reference": "b3313b618f4edd76523572531d5d7e22fe747430"
+                "reference": "ff76e1a660669bb56ba74ba0583fd8d41417bf39"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/paragonie/random_compat/zipball/b3313b618f4edd76523572531d5d7e22fe747430",
-                "reference": "b3313b618f4edd76523572531d5d7e22fe747430",
+                "url": "https://api.github.com/repos/paragonie/random_compat/zipball/ff76e1a660669bb56ba74ba0583fd8d41417bf39",
+                "reference": "ff76e1a660669bb56ba74ba0583fd8d41417bf39",
                 "shasum": ""
             },
             "require": {
@@ -1208,7 +1208,7 @@
                 "pseudorandom",
                 "random"
             ],
-            "time": "2016-03-11 19:54:08"
+            "time": "2016-03-17 16:11:57"
         },
         {
             "name": "php-http/guzzle6-adapter",
