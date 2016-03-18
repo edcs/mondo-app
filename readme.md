@@ -4,7 +4,13 @@ This is an example PHP and Laravel application used to demonstrate interactions 
 March 2016 [POD Point](https://pod-point.com) Academy on the subject of 'Where Are All The Servers?' which was a
 discussion session about the cloud, APIs and DevOps.
 
-If you're a Mondo customer and you'd like to have a look at this app, you can check it out here: http://mondo-app.herokuapp.com/
+This package makes use of the [mondo-php](https://github.com/edcs/mondo-php) API client and the 
+[oauth-mondo](https://github.com/edcs/oauth-mondo) provider for the [PHP League's](https://thephpleague.com) 
+[oauth2-client](https://github.com/thephpleague/oauth2-client). It should be a good starting point for anyone wanting
+to build a Laravel based Mondo web interface.
+
+If you're a Mondo customer and you'd like to have a look at this app, you can check it out here: 
+http://mondo-app.herokuapp.com/
 
 ## Installation
 
